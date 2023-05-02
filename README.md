@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Santiago Mendoza
 
-¡Bienvenido a mi perfil de GitHub! Soy un programador FullStack orientado al diseño Front-End, creación visual y diseño Back-End. Me puedes encontrar en GitHub como SantSRJ.
+¡Bienvenido a mi perfil de GitHub! Soy un programador Fullstack orientado al diseño Front-End, creación visual y diseño Back-End. Me puedes encontrar en GitHub como SantSRJ.
 
 ## Sobre mí
 
